@@ -1,0 +1,2 @@
+[Youtube vido - Actions for Obsidian on iPhone](https://youtu.be/iw8rTKT2KTo?si=RJ-2yyXiMysSSvym)
+[Quick capture obsidian notes on iPhone - Youtube video](https://youtu.be/xxmczG4dcS4?si=aF3M--nwAywaf7Lv)

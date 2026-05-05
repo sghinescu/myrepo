@@ -76,7 +76,7 @@ Depth emerges when someone feels understood before being explored.
 What **observable cue** shows someone has made a vertical move?
 
 ---
-
+https://github.com/sghinescu/myrepo/blob/master/conversation-mastery/emotion-vs-meaning.md#operational-takeaway
 ## 🧭 Calibration Insight
 
 "Openness" is not a feeling. It is observed through:

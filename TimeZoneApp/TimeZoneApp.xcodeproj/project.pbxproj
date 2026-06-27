@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objects = {
+		B7B437D8263B459E00A8E50C /* TimeZoneApp */ = {
+			isa = PBXFileReference;
+			lastKnownFileType = "wrapper.xcodeproj";
+			name = TimeZoneApp;
+			path = TimeZoneApp.xcodeproj;
+			sourceRootBuiltin = YES;
+		};
+		B7B437E1263B459E00A8E50C /* TimeZoneApp */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437E2263B459E00A8E50C /* TimeZoneApp */,
+				B7B437E7263B459E00A8E50C /* Products */,
+				B7B437E8263B459E00A8E50C /* TimeZoneAppWidget */,
+			);
+			name = TimeZoneApp;
+			sourceTree = "<group>";
+		};
+		B7B437E2263B459E00A8E50C /* TimeZoneApp */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437E3263B459E00A8E50C /* AppDelegate.swift */,
+				B7B437E4263B459E00A8E50C /* SceneDelegate.swift */,
+				B7B437E5263B459E00A8E50C /* Info.plist */,
+				B7B437E6263B459E00A8E50C /* Models */,
+				B7B437E9263B459E00A8E50C /* ViewControllers */,
+				B7B437EC263B459E00A8E50C /* Views */,
+			);
+			name = TimeZoneApp;
+			sourceTree = "<group>";
+		};
+		B7B437E3263B459E00A8E50C /* AppDelegate.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = AppDelegate.swift;
+			path = TimeZoneApp/AppDelegate.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437E4263B459E00A8E50C /* SceneDelegate.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = SceneDelegate.swift;
+			path = TimeZoneApp/SceneDelegate.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437E5263B459E00A8E50C /* Info.plist */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = text.plist.xml;
+			name = Info.plist;
+			path = TimeZoneApp/Info.plist;
+			sourceRootBuiltin = YES;
+		};
+		B7B437E6263B459E00A8E50C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437E7263B459E00A8E50C /* TimeZoneModel.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		B7B437E7263B459E00A8E50C /* TimeZoneModel.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneModel.swift;
+			path = TimeZoneApp/Models/TimeZoneModel.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437E8263B459E00A8E50C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437E9263B459E00A8E50C /* TimeZoneApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B7B437E9263B459E00A8E50C /* TimeZoneApp.app */ = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			name = TimeZoneApp.app;
+			path = TimeZoneApp.app;
+			sourceRootBuiltin = YES;
+		};
+		B7B437EA263B459E00A8E50C /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437EB263B459E00A8E50C /* TimeZoneListViewController.swift */,
+				B7B437EC263B459E00A8E50C /* TimeZoneSelectionViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		B7B437EB263B459E00A8E50C /* TimeZoneListViewController.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneListViewController.swift;
+			path = TimeZoneApp/ViewControllers/TimeZoneListViewController.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437EC263B459E00A8E50C /* TimeZoneSelectionViewController.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneSelectionViewController.swift;
+			path = TimeZoneApp/ViewControllers/TimeZoneSelectionViewController.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437ED263B459E00A8E50C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437EE263B459E00A8E50C /* TimeZoneCell.swift */,
+				B7B437EF263B459E00A8E50C /* TimeZoneSelectionCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		B7B437EE263B459E00A8E50C /* TimeZoneCell.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneCell.swift;
+			path = TimeZoneApp/Views/TimeZoneCell.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437EF263B459E00A8E50C /* TimeZoneSelectionCell.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneSelectionCell.swift;
+			path = TimeZoneApp/Views/TimeZoneSelectionCell.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437F0263B459E00A8E50C /* TimeZoneAppWidget */ = {
+			isa = PBXGroup;
+			children = (
+				B7B437F1263B459E00A8E50C /* TimeZoneAppWidget.swift */,
+				B7B437F2263B459E00A8E50C /* Info.plist */,
+			);
+			name = TimeZoneAppWidget;
+			sourceTree = "<group>";
+		};
+		B7B437F1263B459E00A8E50C /* TimeZoneAppWidget.swift */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = sourcecode.swift;
+			name = TimeZoneAppWidget.swift;
+			path = TimeZoneAppWidget/TimeZoneAppWidget.swift;
+			sourceRootBuiltin = YES;
+		};
+		B7B437F2263B459E00A8E50C /* Info.plist */ = {
+			isa = PBXFileReference;
+			fileEncoding = 4;
+			lastKnownFileType = text.plist.xml;
+			name = Info.plist;
+			path = TimeZoneAppWidget/Info.plist;
+			sourceRootBuiltin = YES;
+		};
+	};
+	rootObject = B7B437D8263B459E00A8E50C /* TimeZoneApp */;
+}

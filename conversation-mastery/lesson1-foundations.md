@@ -1,87 +1,78 @@
-# 🧠 Conversation Mastery — Lesson 1: Foundations of Depth
+# Lesson 1 — Foundations of Depth
 
-## 🔑 Core Principle
-Depth emerges when someone feels understood before being explored.
+**Lesson 1** · [Lesson 2](lesson2-conversational-gravity.md) · [Lesson 3](lesson3-taxonomy-of-gaps.md) · [Lesson 4](lesson4-conversational-vector.md)
 
-**Flow:** Listening → Safety → Depth → Meaningful Questions
+## Concepts
 
----
+- **Horizontality** broadens the exchange through facts, events, and shared context. “When did you change jobs?” stays horizontal.
+- **Verticality** moves into lived experience, evaluation, emotion, meaning, motivation, or identity. “I needed work I could feel proud of” is already a vertical move.
+- **Revealed reasoning** gives you something concrete to follow. Listen for a stated reason, constraint, trade-off, or value. Emotion conveys felt intensity, while reasoning reveals how the decision made sense to the speaker.
+- **Pauses, tone, and pace** help you notice changes. A pause may reflect word search, filtering, uncertainty, emotion, or discomfort. Give it room and read what follows alongside the words.
 
-## 🧭 Key Dimensions
+## Mechanism and COS integration
 
-### Horizontality (Surface Expansion)
-- Broad, safe topics
-- Example: “Where are you from?”
+Use **Match → Then Lead (+1)** within the horizontal-to-vertical river. Shared context gives both people a place to start. When the speaker volunteers personal stakes, **Reflect → Validate → Expand**. Reflect their meaning, acknowledge why it makes sense from their position, and invite one small step into the same lived experience. The reflection gives them a chance to correct your understanding before the invitation.
 
-### Verticality (Depth Penetration)
-- Moves into meaning, emotion, identity
-- Example: “What made you choose that path?”
+Start with an observation close to their words. A **proto-label** is a tentative name for what you hear, such as “Sounds like there was some relief in that.” If a pause persists and they seem engaged, you can say “Take your time.” If they shorten their answers, deflect, or switch topics, soften and let the conversation move. A flat tone by itself can be someone’s baseline.
 
----
+## Example and practice
 
-## ⚙️ Conversation Engine
+> “I changed jobs recently … I couldn’t stand feeling like I had to defend every decision.”
+>
+> “Having to defend each decision wore on you. What did you want to be different in the next role?”
 
-**Reflect → Validate → Expand**
+The reason and personal stake open the door. The response acknowledges them and asks about a concrete consequence. In a drill, identify the exact cue and practice a reflection, validation, and one question. Leave advice and personal stories for another exercise.
 
-- **Reflect**: Restate what they said
-- **Validate**: Acknowledge it makes sense
-- **Expand**: Ask a deeper question
+## Source notes
 
----
+[Key concepts](lesson-1-key-concepts.md) · [Pauses addendum](lesson1-addendum-pauses.md) · [Verticality trigger](core-insight-verticality-trigger.md) · [Verticality cues](verticality-cue.md) · [Emotion and meaning](emotion-vs-meaning.md) · [Revealed reasoning](revealed-reasoning-insight.md)
 
-## 🧠 Hidden Rule
+## Handwritten notes
 
-**Match → Then Lead**
+- Horizontal expands context. Vertical explores what it felt like or why it mattered.
+- Watch words, tone, and pace. A pause is a cue to give space.
+- Follow volunteered reasoning or personal stakes. Reflect → Validate → Expand by one step.
 
-- Match their current depth level
-- Then go **+1 level deeper** (never jump multiple levels)
+## Anki cloze PSV
 
----
+Copy each block into its own UTF-8 text file and import into Anki. For Production cards, say your own response before revealing the sample.
 
-## 🔍 Openness Detection
+### Knowledge
 
-### 🟢 Signals of Openness
-- Expanded answers
-- Volunteered details
-- Emotional tone shifts
-- Staying engaged on topic
+```text
+#type:cloze
+#deck:Conversation Mastery::Lesson 01::Knowledge
+#separator:Pipe
+#html:true
+#columns:Text|Extra
+Match → Then Lead means {{c1::meeting the current depth, then taking one small step into what the speaker has already opened}}.|Stay within the same lived experience.
+A pause is {{c1::a cue to give space and observe what follows}}.|Possible explanations include word search, uncertainty, and emotion.
+```
 
-### 🔴 Signals of Guardedness
-- Short responses
-- Deflection (humor, topic switch)
-- Flat tone
+### Recognition
 
----
+```text
+#type:cloze
+#deck:Conversation Mastery::Lesson 01::Recognition
+#separator:Pipe
+#html:true
+#columns:Text|Extra
+“I moved in May … I needed a place where my kids could walk to school.” Identify the vertical cue. {{c1::The volunteered reason and family priority}}.|“In May” supplies context.
+“It was fine.” They pause and start a different topic. What do you observe? {{c1::A brief answer, a pause, and a topic shift}}.|Follow the shift.
+```
 
-## ⚠️ Critical Insight
+### Production
 
-> People don’t resist depth.
-> They resist **unexpected depth**.
+```text
+#type:cloze
+#deck:Conversation Mastery::Lesson 01::Production
+#separator:Pipe
+#html:true
+#columns:Text|Extra
+“I turned the promotion down. I would have missed dinner with the kids most nights.” Offer one +1 question. {{c1::“What felt most important about keeping those evenings?”}}|Anchor to the stated trade-off.
+“I left the team …” They stop mid-sentence. Give a low-pressure response. {{c1::Wait, or say “Take your time.”}}|Give them room to finish.
+```
 
----
+## Field card
 
-## 🎯 Practice Constraint
-
-- ❌ No advice
-- ❌ No personal stories
-- ✅ Only:
-  - Reflect
-  - Validate
-  - Ask one deeper question
-
----
-
-## ❓ Guiding Question
-
-What **observable cue** shows someone has made a vertical move?
-
----
-https://github.com/sghinescu/myrepo/blob/master/conversation-mastery/emotion-vs-meaning.md#operational-takeaway
-## 🧭 Calibration Insight
-
-"Openness" is not a feeling. It is observed through:
-- Words (depth of content)
-- Tone (emotional variation)
-- Pace (engagement level)
-
-Train your perception to detect **when they go slightly vertical first** — that is your signal to follow.
+In three conversations, notice a pause or volunteered reason. Wait through the pause. If the speaker offers a personal stake, reflect it and try one +1 invitation. Record the exact cue and whether they expanded, corrected, or moved on.
